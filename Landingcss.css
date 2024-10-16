@@ -1,0 +1,97 @@
+
+.nav1{
+    max-width: 100%;
+    height: 50px;
+    color: white;
+    background: #222f3e;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav1 i{
+    margin: 0px 5px;
+}
+.nav1 a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+    background: #e67e22;
+}
+.dv1 h2{
+    margin-right: 100px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+color: rgb(18, 3, 3);
+text-shadow: black;
+text-align: left;
+}
+.img1{
+    margin-top: 2px 2px;
+    width: 75px;
+    height: auto;
+}
+.nav2
+{
+    max-width: 100%;
+    height: 80px;
+    background: rgb(245, 172, 28);
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px 70px;
+}
+.menu a{
+text-decoration: none;
+color: black;
+padding: 10px 20px;
+}
+header{
+    margin-bottom: -21px;
+max-width: 100%;
+height: 100vh;
+background:linear-gradient(rgba(0,0,0,0.6),85%,#e67e22), url(images/Lpcps.jpeg);
+
+background-size: 100% 100%;
+}
+.h-text{
+    max-width: 600px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.h-text h1{
+    font-family: "Dancing Script", cursive;
+    font-size: 3em;
+}
+.h-text span{
+    color: #e67e22;
+    font-family: "Dancing Script", cursive;
+}
+.h-text p{
+    font-size: 20px;
+    margin: 40px 0;
+    line-height: 30px;
+}
+.h-text a{
+    text-decoration: none;
+    color: white;
+    background: #e67e22;
+    padding: 10px 20px;
+    margin: 0 15px;
+    letter-spacing: 5px;
+
+}
+.dvfooter{
+    max-width: 100%;
+    color: rgb(240, 235, 231);
+    background-color: #e67e22;
+    text-align: end;
+    text-decoration: none;
+    
+}
+h5{
+    margin-right: 4px;
+}
